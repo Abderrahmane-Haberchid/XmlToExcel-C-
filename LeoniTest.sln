@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeoniTest", "LeoniTest\LeoniTest.csproj", "{EBABF7A2-86C3-444C-BC54-BE54C4DF0C13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBABF7A2-86C3-444C-BC54-BE54C4DF0C13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBABF7A2-86C3-444C-BC54-BE54C4DF0C13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBABF7A2-86C3-444C-BC54-BE54C4DF0C13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBABF7A2-86C3-444C-BC54-BE54C4DF0C13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
