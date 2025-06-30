@@ -22,3 +22,4 @@
 /Users/abderahman/RiderProjects/LeoniTest/LeoniTest/bin/Debug/net9.0/System.IO.Packaging.dll
 /Users/abderahman/RiderProjects/LeoniTest/LeoniTest/obj/Debug/net9.0/LeoniTest.csproj.AssemblyReference.cache
 /Users/abderahman/RiderProjects/LeoniTest/LeoniTest/obj/Debug/net9.0/LeoniTest.csproj.Up2Date
+/Users/abderahman/RiderProjects/LeoniTest/LeoniTest/obj/Debug/net9.0/LeoniTest.sourcelink.json

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeoniTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05ca0a07a23214483e2df746f530cf71cf944f40")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeoniTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeoniTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
